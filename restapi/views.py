@@ -8,11 +8,7 @@ from .serializers import InfoSerializer
 # Create your views here.
 
 class PostsAPIView(APIView):
-    def get(self, request):
-        posts = Info.objects.all()     #querySet
-        serializer = InfoSerializer(posts, many=True)
-        return Response(serializer.data)
-
+   
     def post(self, request):
         serializer = InfoSerializer(data=request.data)
 
