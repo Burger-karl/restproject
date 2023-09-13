@@ -64,6 +64,8 @@ UML MODEL DIAGRAM
 ![Screenshot (333)](https://github.com/Burger-karl/restproject/assets/116649077/f985f51f-ba65-4858-addf-e2e3db932afa)
 
 
+https://lucid.app/publicSegments/view/93d5bf6e-76a7-41d4-8683-7a488c04163d/image.png
+
 
 
 
