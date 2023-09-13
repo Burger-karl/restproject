@@ -56,6 +56,15 @@ CRUD API RUN AND TESTING
 
 
 
+UML MODEL DIAGRAM
+
+
+
+
+![Screenshot (333)](https://github.com/Burger-karl/restproject/assets/116649077/f985f51f-ba65-4858-addf-e2e3db932afa)
+
+
+
 
 
 
