@@ -25,7 +25,7 @@ SECRET_KEY = '_7=yho#%_qm=q9n)2^=^3r$jq^w9j5-@=1x&n!ispg)rxh3(^&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crud-rest-api-ob7y.onrender.com']
 
 
 # Application definition
